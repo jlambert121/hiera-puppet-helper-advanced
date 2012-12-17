@@ -1,0 +1,5 @@
+fixtures:
+  symlinks:
+    example: "#{source_dir}"
+
+
